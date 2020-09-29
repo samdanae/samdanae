@@ -1,16 +1,22 @@
-### Hi there 👋
+![Hi, I'm Samdanae](https://img.shields.io/badge/Hi-i%20am%20samdanae-lavender?style=for-the-badge&logo=hey)
 
-<!--
-**samdanae/samdanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I'm a full stack developer based somewhere in
+![Auckland, New Zealand](https://img.shields.io/badge/Auckland-New%20Zealand-orange?style=for-the-badge)
 
-Here are some ideas to get you started:
+##### I work at 
+[![Optimation](https://img.shields.io/badge/Optimation-blueviolet?style=for-the-badge)](https://www.optimation.co.nz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### I develop primarily in 
+![C# .Net](https://img.shields.io/badge/-.net-blue?style=for-the-badge&logo=c%20sharp)
+![T-SQL](https://img.shields.io/badge/-TSQL-blue?style=for-the-badge&logo=microsoft%20sql%20server)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=azure%20pipelines)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+
+##### I'd be 
+![Undefined](https://img.shields.io/badge/Undefined-red?style=for-the-badge&logo=x-pack)
+[![Without my partner in crime @farhin00farhin](https://img.shields.io/badge/without%20my%20partner%20in%20crime-%20@farhin00farhin-steelblue?style=for-the-badge)](https://www.github.com/farhin00farhin/)
+
+###### Links:
+![Website Under Construction](https://img.shields.io/badge/my%20Website-under%20construction-yellow?style=for-the-badge&logo=xrp&logoColor=fff)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/Samdanae-yellow?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samdanae/)
