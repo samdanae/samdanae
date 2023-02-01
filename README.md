@@ -34,6 +34,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-green?style=for-the-badge&logo=docker)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-green?style=for-the-badge&logo=pulumi)
 
+### Side Project
+[![Nutshell](https://img.shields.io/badge/Nutshell🥜🐚-Syntaxless%20JSON%20to%20markdown%20conversion-lightblue?style=for-the-badge&logo=github)](https://www.github.com/samdanae/nutshell)
+
 ### Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/Samdanae-yellow?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/samdanae/)
 
