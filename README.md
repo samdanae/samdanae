@@ -1,6 +1,6 @@
 
 <details>
-  <summary>Source 👈</summary>
+  <summary>Source</summary>
 
 ```json
 {
