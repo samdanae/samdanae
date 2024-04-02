@@ -7,9 +7,9 @@
     "name": "Samdanae Imran",
     "occupation": "Software Engineer",
     "location": "Auckland",
-    "languages": [ ".Net", "T-SQL", "TypeScript" ],   
-    "tools": [ "Rider", "VS Code", "Azure", "Git", "Docker", "Pulumi" ],
-    "techniques": [ "API-first", "Test-driven", "Trunk-based" ]
+    "languages": [ ".Net", "TypeScript"],   
+    "tools": [ "Rider", "VS Code", "Azure"],
+    "techniques": [ "API-first", "Test-driven" ]
 }
 ```
 </details>
@@ -23,7 +23,6 @@
 
 ### Languages
 ![C# .Net](https://img.shields.io/badge/-.net-blue?style=for-the-badge&logo=c%20sharp)
-![T-SQL](https://img.shields.io/badge/-TSQL-blue?style=for-the-badge&logo=microsoft%20sql%20server)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ### Tools
